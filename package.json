@@ -1,0 +1,9 @@
+{
+  "name": "de.robtranquillo.simple-lfs-package",
+  "displayName": "Simple LFS Package",
+  "version": "0.0.1",
+  "description": "The most simple package using LFS",
+  "type": "tool",
+  "dependencies": {
+  }
+}
